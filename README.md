@@ -31,7 +31,7 @@ Lollipop plots display mutation locations and protein structures within user-def
 
 ![image](https://github.com/user-attachments/assets/08c202a0-91d6-4686-99c5-e669be7f5710)
 
-The lollipop plot shown here, AI-generated using DALL·E in ChatGPT, visually represents experimentally validated splice site mutations. The original plot cannot be uploaded due to data privacy and publication restrictions.
+The lollipop plot shown here is AI-generated using DALL·E in ChatGPT. This visually represents experimentally validated splice site mutations. The original plot cannot be uploaded due to data privacy and publication restrictions.
 
 ## Dependencies
 - shiny
